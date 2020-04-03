@@ -1,4 +1,6 @@
 # MyCrypto About / Team Page
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Follutr-sketc%2Fabout.mycrypto.com.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Follutr-sketc%2Fabout.mycrypto.com?ref=badge_shield)
+
 
 Live site can be found at [https://about.mycrypto.com](https://about.mycrypto.com).
 
@@ -31,3 +33,6 @@ This will run Gulp to build the project and watch for changes. You can open `dis
   * Push to remote: `git push dist gh-pages-release-<date>`
 * Now create a PR from `gh-pages-release-<date>` into `gh-pages` (like: https://github.com/MyCryptoHQ/about.mycrypto.com/pull/42)
 * Get Infra to clear CF caches (project is live at https://mycryptohq.github.io/about.mycrypto.com/ without this though)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Follutr-sketc%2Fabout.mycrypto.com.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Follutr-sketc%2Fabout.mycrypto.com?ref=badge_large)
